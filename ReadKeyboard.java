@@ -12,7 +12,7 @@ public class ReadKeyboard {
         //String x=sc.nextLine();
         
         int x,y;
-        System.out.println("Eneter 2 numbers: ");
+        System.out.println("Enter 2 numbers: ");
         x=sc.nextInt();
         y=sc.nextInt();
         
